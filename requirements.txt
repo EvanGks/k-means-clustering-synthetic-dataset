@@ -1,0 +1,8 @@
+# requirements.txt for K-Means Clustering Project
+# List of required Python libraries for running the notebook
+
+numpy           # Fundamental package for numerical computations
+pandas          # Data manipulation and analysis
+matplotlib      # Plotting and visualization
+seaborn         # Statistical data visualization (built on matplotlib)
+scikit-learn    # Machine learning algorithms and tools (K-Means, scaling, metrics)
